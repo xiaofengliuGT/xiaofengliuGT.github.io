@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiaofeng Liu (Chinese name: "刘 晓 凤") and I am currently a PhD student in the [Photogrammetric Computer Vision Lab](https://pcvlab.engineering.osu.edu/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15). 
+My name is Xiaofeng Liu (Chinese name: "刘 晓 凤") and I am currently earning my Ph.D. at [Georgia Tech](https://www.gatech.edu/) in Water Resource Engineering under the advisement of [Dr. Aris Georgakakos](http://gwri.gatech.edu/staff/3976). The focus of her research is reservoir system management both for quantity and quality.
 
 My main research is about computer vision and deep learning. Specifically, I am now working on localization problem using deep neural networks. 
 
