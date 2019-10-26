@@ -1,5 +1,5 @@
 ---
-title: "Localization using Deep Topological Maps"
+title: "Multi-class Structural Image Detection and Classification using CNN"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 excerpt: Using deep neural networks to achieve localization task. 
 collection: portfolio
