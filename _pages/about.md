@@ -10,9 +10,8 @@ redirect_from:
 
 My name is Xiaofeng Liu (Chinese name: "刘 晓 凤") and I am currently earning my Ph.D. at [Georgia Tech](https://www.gatech.edu/) in Water Resource Engineering under the advisement of [Dr. Aris Georgakakos](http://gwri.gatech.edu/staff/3976). The focus of her research is reservoir system management both for quantity and quality.
 
-My main research is about computer vision and deep learning. Specifically, I am now working on localization problem using deep neural networks. 
 
 Recent updates:
 ------
-- In the process of taking PhD candidacy exam. 
+- Be about to Netherlands. 
 
