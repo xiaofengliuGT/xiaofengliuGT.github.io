@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiaofeng Liu (Chinese name: "刘 晓 凤") and I am currently earning my Ph.D. in [Water Resource Institude](Georgia Water Resources Institute) at [Georgia Tech](https://www.gatech.edu/) under the advisement of [Dr. Aris Georgakakos](http://gwri.gatech.edu/staff/3976). The focus of my research is reservoir system management both for quantity and quality.
+My name is Xiaofeng Liu (Chinese name: "刘 晓 凤") and I am currently earning my Ph.D. in [Water Resource Institude](http://gwri.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/) under the advisement of [Dr. Aris Georgakakos](http://gwri.gatech.edu/staff/3976). The focus of my research is reservoir system management both for quantity and quality.
 
 
 Recent updates:
